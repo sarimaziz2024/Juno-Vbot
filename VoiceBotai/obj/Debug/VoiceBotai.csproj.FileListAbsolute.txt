@@ -1,0 +1,10 @@
+C:\Users\sarim\source\repos\VoiceBotai\bin\Debug\VoiceBotai.exe.config
+C:\Users\sarim\source\repos\VoiceBotai\bin\Debug\VoiceBotai.exe
+C:\Users\sarim\source\repos\VoiceBotai\bin\Debug\VoiceBotai.pdb
+C:\Users\sarim\source\repos\VoiceBotai\obj\Debug\VoiceBotai.csproj.AssemblyReference.cache
+C:\Users\sarim\source\repos\VoiceBotai\obj\Debug\VoiceBotai.Form1.resources
+C:\Users\sarim\source\repos\VoiceBotai\obj\Debug\VoiceBotai.Properties.Resources.resources
+C:\Users\sarim\source\repos\VoiceBotai\obj\Debug\VoiceBotai.csproj.GenerateResource.cache
+C:\Users\sarim\source\repos\VoiceBotai\obj\Debug\VoiceBotai.csproj.CoreCompileInputs.cache
+C:\Users\sarim\source\repos\VoiceBotai\obj\Debug\VoiceBotai.exe
+C:\Users\sarim\source\repos\VoiceBotai\obj\Debug\VoiceBotai.pdb
